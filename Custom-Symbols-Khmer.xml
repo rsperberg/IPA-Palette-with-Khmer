@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>UserGlyphDescriptions</key>
+	<!-- Custom tab in IPA Palette, http://www.blugs.com/IPA/ -->
+	<dict>
+		<key>U+1780</key>
+		<string>kɑɑ</string><!-- row 1, col 1 -->
+		<key>U+1785</key>
+		<string>cɑɑ</string><!-- 2,1 -->
+		<key>U+178A</key>
+		<string>ɗɑɑ</string><!-- 3,1 -->
+		<key>U+178F</key>
+		<string>tɑɑ,ɗɑɑ</string><!-- 4,1 -->
+		<key>U+1794</key>
+		<string>ɓɑɑ,pɑɑ</string><!-- 5,1 -->
+		<key>U+1799</key>
+		<string>yɔɔ</string><!-- 6,1 -->
+		<!-- key>U+179F</key>
+		<string>sɑɑ</string --><!-- 7,1 -->
+		<key>U+1781</key>
+		<string>kʰɑɑ</string><!-- row 1, col 2 -->
+		<key>U+1786</key>
+		<string>cʰɑɑ</string>
+		<key>U+178B</key>
+		<string>tʰɑɑ</string><!-- 3,2 -->
+		<key>U+1790</key>
+		<string>tʰɑɑ</string>
+		<key>U+1795</key>
+		<string>pʰɑɑ</string><!-- 5,2 -->
+		<key>U+179A</key>
+		<string>rɔɔ</string>
+		<!-- key>U+17A0</key>
+		<string>hɑɑ</string --><!-- 7,2 -->
+		<key>U+1782</key>
+		<string>kɔɔ</string><!--  row 1, col 3  -->
+		<key>U+1787</key>
+		<string>cɔɔ</string>
+		<key>U+178C</key>
+		<string>ɗɔɔ</string><!--  3,3  -->
+		<key>U+1791</key>
+		<string>tɔɔ</string>
+		<key>U+1796</key>
+		<string>pɔɔ</string><!--  5,3  -->
+		<key>U+179B</key>
+		<string>lɔɔ</string>
+		<!-- key>U+17A1</key>
+		<string>lɑɑ</string --><!--  7,3  -->
+		<key>U+1783</key>
+		<string>kʰɔɔ</string><!--  row 1, col 4  -->
+		<key>U+1788</key>
+		<string>cʰɔɔ</string>
+		<key>U+178D</key>
+		<string>tʰɔɔ</string><!--  3,4  -->
+		<key>U+1792</key>
+		<string>tʰɔɔ</string>
+		<key>U+1797</key>
+		<string>pʰɔɔ</string><!--  5,4  -->
+		<key>U+179C</key>
+		<string>ʋɔɔ</string>
+		<!-- key>U+17A2</key>
+		<string>ʔɑɑ</string --><!--  7,4  -->
+		<key>U+1784</key>
+		<string>ŋɔɔ</string><!-- row 1, col 55  -->
+		<key>U+1789</key>
+		<string>ɲɔɔ</string>
+		<key>U+178E</key>
+		<string>nɑɑ</string>
+		<key>U+1793</key>
+		<string>nɔɔ</string>
+		<key>U+1798</key>
+		<string>mɔɔ</string>
+		<key>U+179F</key>
+		<string>sɑɑ</string><!-- 7,1 -->
+		<key>U+17A0</key>
+		<string>hɑɑ</string><!-- 7,2 --><!-- new col  -->
+		<key>U+17A1</key>
+		<string>lɑɑ</string><!--  7,3  -->
+		<key>U+17A2</key>
+		<string>ʔɑɑ</string><!--  7,4  -->
+		<key>U+17D6</key>
+		<string>SIGN CAMNUC PII KUUH</string>
+		<key>U+17D7</key>
+		<string>SIGN LEK TOO</string>
+		<key>U+17DA</key>
+		<string>SIGN KOOMUUT</string>
+		<key>U+17E1</key>
+		<string>1 one muoy</string><!-- new col  numbers -->
+		<key>U+17E2</key>
+		<string>2 two pii</string>
+		<key>U+17E3</key>
+		<string>3 three bei</string>
+		<key>U+17E4</key>
+		<string>4 four buon</string>
+		<key>U+17E5</key>
+		<string>5 five pram</string>
+		<key>U+17D4</key>
+		<string>SIGN KHAN</string>
+		<key>U+17E6</key>
+		<string>6 six pram-muoy</string><!-- new col numbers -->
+		<key>U+17E7</key>
+		<string>7 seven pram-pii</string>
+		<key>U+17E8</key>
+		<string>8 eight pram-bei</string>
+		<key>U+17E9</key>
+		<string>9 nine pram-buon</string>
+		<key>U+17E0</key>
+		<string>0 zero soon, seiroo</string>
+		<key>U+17D2</key>
+		<string>SIGN COENG</string>
+		<key>U+17B6</key>
+		<string>VOWEL SIGN AA  aː / iə</string><!-- new col vowels -->
+		<key>U+17B7</key>
+		<string>VOWEL SIGN I" eʔ, e, ə / iʔ, i, ɨ</string>
+		<key>U+17B8</key>
+		<string>VOWEL SIGN II əj / iː</string>
+		<key>U+17B9</key>
+		<string>VOWEL SIGN Y ə / ɨ</string>
+		<key>U+17BA</key>
+		<string>VOWEL SIGN YY əɨ / ɨː</string>
+		<key>U+17BB</key>
+		<string>VOWEL SIGN U o / u</string>
+		<key>U+17BC</key>
+		<string>VOWEL SIGN UU ou / uː</string><!-- new col vowels  -->
+		<key>U+17BD</key>
+		<string>VOWEL SIGN UA uə / uə</string>
+		<key>U+17BE</key>
+		<string>VOWEL SIGN OE aə / əː</string>
+		<key>U+17BF</key>
+		<string>VOWEL SIGN YA ɨə / ɨə</string>
+		<key>U+17C0</key>
+		<string>VOWEL SIGN IE iə / iə</string>
+		<key>U+17C1</key>
+		<string>VOWEL SIGN E ei, ə / eː, ɨ</string>
+		<key>U+17C2</key>
+		<string>VOWEL SIGN AE ae / ɛː</string><!-- new col vowels -->
+		<key>U+17C3</key>
+		<string>VOWEL SIGN AI aj / ɨj</string>
+		<key>U+17C4</key>
+		<string>VOWEL SIGN OO ao / oː</string>
+		<key>U+17C5</key>
+		<string>VOWEL SIGN AU aw / ɨw</string>
+		<key>U+17C6</key>
+		<string>SIGN NIKAHIT ɑm / um</string>
+		<key>U+17C7</key>
+		<string>SIGN REAHMUK ah / eah</string>
+	</dict>
+	<key>UserGlyphs</key>
+	<array>
+		<string>ក</string>
+		<string>ច</string>
+		<string>ដ</string>
+		<string>ត</string>
+		<string>ប</string>
+		<string>យ</string>
+		<!-- string>ស</string  -->
+		<string>ខ</string>
+		<string>ឆ</string>
+		<string>ឋ</string>
+		<string>ថ</string>
+		<string>ផ</string>
+		<string>រ</string>
+		<!-- string>ហ</string -->
+		<string>គ</string>
+		<string>ជ</string>
+		<string>ឌ</string>
+		<string>ទ</string>
+		<string>ព</string>
+		<string>ល</string>
+		<!-- string>ឡ</string  -->
+		<string>ឃ</string>
+		<string>ឈ</string>
+		<string>ឍ</string>
+		<string>ធ</string>
+		<string>ភ</string>
+		<string>វ</string>
+		<!-- string>អ</string  -->
+		<string>ង</string>
+		<string>ញ</string>
+		<string>ណ</string>
+		<string>ន</string>
+		<string>ម</string>
+		<string>ស</string>
+		<string>ហ</string><!-- col 6  -->
+		<string>ឡ</string>
+		<string>អ</string>
+		<string>៖</string>
+		<string>ៗ</string>
+		<string>៚</string>
+		<string>១</string><!-- col 7  -->
+		<string>២</string>
+		<string>៣</string>
+		<string>៤</string>
+		<string>៥</string>
+		<string>។</string>
+		<string>៦</string><!--  col 8  -->
+		<string>៧</string>
+		<string>៨</string>
+		<string>៩</string>
+		<string>០</string>
+		<string>្</string>
+		<string>ា</string><!--  col 9  -->
+		<string>ិ</string>
+		<string>ី</string>
+		<string>ឹ</string>
+		<string>ឺ</string>
+		<string>ុ</string>
+		<string>ូ</string><!--  col 10  -->
+		<string>ួ</string>
+		<string>ើ</string>
+		<string>ឿ</string>
+		<string>ៀ</string>
+		<string>េ</string>
+		<string>ែ</string><!--  col 11  -->
+		<string>ៃ</string>
+		<string>ោ</string>
+		<string>ៅ</string>
+		<string>ំ</string>
+		<string>ះɐ</string>
+	</array>
+</dict>
+</plist>
